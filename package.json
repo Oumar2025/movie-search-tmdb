@@ -1,0 +1,27 @@
+{
+    "name": "movie-search-tmdb",
+    "version": "1.0.0",
+    "description": "Movie search application using TMDB API",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "axios": "^1.6.0",
+        "dotenv": "^16.3.1",
+        "cors": "^2.8.5"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    },
+    "keywords": [
+        "movie",
+        "tmdb",
+        "api",
+        "express"
+    ],
+    "author": "",
+    "license": "ISC"
+}

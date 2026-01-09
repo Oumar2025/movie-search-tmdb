@@ -1,0 +1,35 @@
+# 🎬 Movie Search TMDB
+
+A web application to search for movies using The Movie Database (TMDB) API.
+
+## Features
+- 🔍 Search movies by title
+- 🎬 View movie details
+- 📱 Responsive design
+- ⚡ Real-time search
+- 🛡️ Error handling & validation
+
+## 🚀 Live Demo
+[Add your live demo link here if deployed]
+
+## 📸 Screenshots
+[Add screenshots here]
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **API:** TMDB API
+- **Styling:** Custom CSS
+
+## 📦 Installation
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn
+- TMDB API key (free)
+
+### Steps
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Oumar2025/movie-search-tmdb.git
+   cd movie-search-tmdb
