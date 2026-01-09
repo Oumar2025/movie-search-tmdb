@@ -2,6 +2,9 @@
 
 A web application to search for movies using The Movie Database (TMDB) API.
 
+## 🎥 Screen Recording link video:
+(https://youtu.be/_BdNySp29Oo?si=9UawFKqOdiL1-4eU)
+
 ## Features
 - 🔍 Search movies by title
 - 🎬 View movie details
@@ -10,10 +13,8 @@ A web application to search for movies using The Movie Database (TMDB) API.
 - 🛡️ Error handling & validation
 
 ## 🚀 Live Demo
-[Add your live demo link here if deployed]
+(http://localhost:3000/)
 
-## 📸 Screenshots
-[Add screenshots here]
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
